@@ -1,0 +1,15 @@
+"C:\work softwore\IAR\arm\bin\armproc.dll" 
+
+"C:\work softwore\IAR\arm\bin\armstlink2.dll" 
+
+"C:\Users\61009\Desktop\各个模块实验\NEWLAST\EWARM\NEWLAST\Exe\NEWLAST.out" 
+
+--plugin="C:\work softwore\IAR\arm\bin\armbat.dll" 
+
+--device_macro="C:\work softwore\IAR\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="C:\work softwore\IAR\arm\config\flashloader\ST\FlashSTM32F446xE.board" 
+
+
+
+
